@@ -1,0 +1,19 @@
+# DJ AI Music - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Audio processing and analysis
+librosa==0.10.0
+soundfile==0.12.1
+pydub==0.25.1
+
+# Scientific computing
+numpy==1.24.3
+scipy==1.11.0
+
+# Text-to-speech synthesis
+pyttsx3==2.90
+
+# Optional: For development
+# pytest==7.4.0
+# black==23.9.1
+# flake8==6.1.0
